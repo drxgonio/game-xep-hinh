@@ -1,0 +1,14 @@
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\bin\Release\GameXepHinh.exe.config
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\bin\Release\GameXepHinh.exe
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\bin\Release\GameXepHinh.pdb
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Release\Interop.WMPLib.dll
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Release\GameXepHinh.csproj.ResolveComReference.cache
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Release\GameXepHinh.Form1.resources
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Release\GameXepHinh.formAbout.resources
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Release\GameXepHinh.formGuide.resources
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Release\GameXepHinh.formOption.resources
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Release\GameXepHinh.Properties.Resources.resources
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Release\GameXepHinh.csproj.GenerateResource.Cache
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Release\GameXepHinh.csproj.CoreCompileInputs.cache
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Release\GameXepHinh.exe
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Release\GameXepHinh.pdb

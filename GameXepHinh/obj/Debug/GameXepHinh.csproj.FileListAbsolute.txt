@@ -1,0 +1,120 @@
+H:\OneDrive\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe.config
+H:\OneDrive\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe
+H:\OneDrive\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.pdb
+H:\OneDrive\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csprojResolveAssemblyReference.cache
+H:\OneDrive\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Form1.resources
+H:\OneDrive\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Properties.Resources.resources
+H:\OneDrive\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.GenerateResource.Cache
+H:\OneDrive\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.exe
+H:\OneDrive\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.pdb
+H:\OneDrive\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formAbout.resources
+H:\OneDrive\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formOption.resources
+C:\Users\tuand\Desktop\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe.config
+C:\Users\tuand\Desktop\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.exe
+C:\Users\tuand\Desktop\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.pdb
+C:\Users\tuand\Desktop\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe
+C:\Users\tuand\Desktop\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.pdb
+C:\Users\tuand\Desktop\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csprojResolveAssemblyReference.cache
+C:\Users\tuand\Desktop\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Form1.resources
+C:\Users\tuand\Desktop\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formAbout.resources
+C:\Users\tuand\Desktop\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formOption.resources
+C:\Users\tuand\Desktop\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Properties.Resources.resources
+C:\Users\tuand\Desktop\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.GenerateResource.Cache
+H:\OneDrive\GameXepHinh\GameXepHinh\obj\Debug\Interop.WMPLib.dll
+H:\OneDrive\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe.config
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.exe
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.pdb
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.pdb
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Form1.resources
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formAbout.resources
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formOption.resources
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.GenerateResource.Cache
+C:\Users\Tuan Dat\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe.config
+C:\Users\Tuan Dat\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tuan Dat\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.ResolveComReference.cache
+C:\Users\Tuan Dat\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.exe
+C:\Users\Tuan Dat\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.pdb
+C:\Users\Tuan Dat\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe
+C:\Users\Tuan Dat\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.pdb
+C:\Users\Tuan Dat\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csprojResolveAssemblyReference.cache
+C:\Users\Tuan Dat\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Form1.resources
+C:\Users\Tuan Dat\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formAbout.resources
+C:\Users\Tuan Dat\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formOption.resources
+C:\Users\Tuan Dat\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Properties.Resources.resources
+C:\Users\Tuan Dat\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe.config
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.exe
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.pdb
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.pdb
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Form1.resources
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formAbout.resources
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formOption.resources
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GameXepHinh\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Update\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe.config
+C:\Users\Administrator\Desktop\Update\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\Update\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Update\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.exe
+C:\Users\Administrator\Desktop\Update\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.pdb
+C:\Users\Administrator\Desktop\Update\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe
+C:\Users\Administrator\Desktop\Update\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.pdb
+C:\Users\Administrator\Desktop\Update\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Update\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Form1.resources
+C:\Users\Administrator\Desktop\Update\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formAbout.resources
+C:\Users\Administrator\Desktop\Update\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formGuide.resources
+C:\Users\Administrator\Desktop\Update\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formOption.resources
+C:\Users\Administrator\Desktop\Update\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Update\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.GenerateResource.Cache
+C:\Users\Tuan Dat\Desktop\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe.config
+C:\Users\Tuan Dat\Desktop\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tuan Dat\Desktop\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.ResolveComReference.cache
+C:\Users\Tuan Dat\Desktop\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.exe
+C:\Users\Tuan Dat\Desktop\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.pdb
+C:\Users\Tuan Dat\Desktop\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe
+C:\Users\Tuan Dat\Desktop\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.pdb
+C:\Users\Tuan Dat\Desktop\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csprojResolveAssemblyReference.cache
+C:\Users\Tuan Dat\Desktop\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Form1.resources
+C:\Users\Tuan Dat\Desktop\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formAbout.resources
+C:\Users\Tuan Dat\Desktop\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formGuide.resources
+C:\Users\Tuan Dat\Desktop\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formOption.resources
+C:\Users\Tuan Dat\Desktop\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Properties.Resources.resources
+C:\Users\Tuan Dat\Desktop\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\Compressed\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe.config
+C:\Users\DELL\Downloads\Compressed\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Downloads\Compressed\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.ResolveComReference.cache
+C:\Users\DELL\Downloads\Compressed\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.exe
+C:\Users\DELL\Downloads\Compressed\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.pdb
+C:\Users\DELL\Downloads\Compressed\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe
+C:\Users\DELL\Downloads\Compressed\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.pdb
+C:\Users\DELL\Downloads\Compressed\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\Compressed\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Form1.resources
+C:\Users\DELL\Downloads\Compressed\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formAbout.resources
+C:\Users\DELL\Downloads\Compressed\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formGuide.resources
+C:\Users\DELL\Downloads\Compressed\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formOption.resources
+C:\Users\DELL\Downloads\Compressed\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Properties.Resources.resources
+C:\Users\DELL\Downloads\Compressed\xephinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.GenerateResource.Cache
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe.config
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\Interop.WMPLib.dll
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.ResolveComReference.cache
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.exe
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.pdb
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.pdb
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csprojResolveAssemblyReference.cache
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Form1.resources
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formAbout.resources
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formGuide.resources
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.formOption.resources
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Properties.Resources.resources
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.GenerateResource.Cache
+E:\GameXepHinh\Update1\GameXepHinh\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.CoreCompileInputs.cache
